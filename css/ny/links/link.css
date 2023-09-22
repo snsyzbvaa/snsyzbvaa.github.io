@@ -1,0 +1,22 @@
+a {
+    color: #466995;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: orange;
+  }
+  
+  a:visited {
+    color: #466995;
+  }
+  
+  .question-link:visited {
+    color: #ffffff;
+  }
+  
+  a:active, .question-link:active {
+    color: #DBE9EE;
+  }

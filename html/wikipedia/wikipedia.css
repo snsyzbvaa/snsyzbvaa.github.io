@@ -1,0 +1,64 @@
+* {
+    font-family: Verdana;
+}
+
+  .green {
+    color: rgb(9, 128, 9);
+}
+
+  [href]{
+    color: chocolate;
+}
+
+  img[src*='"vessels.jpg" alt="">'] {
+    height: 50px;
+}
+
+p:hover {
+    background-color: rgb(238, 227, 192);
+}
+
+p {
+    color: aquamarine;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(210, 154, 81)
+}
+
+h1,
+.menu {
+    font-family: Georgia
+}
+    
+h1 {
+    text-align: left;
+    font-weight: bold;
+    color: rgb(4, 4, 4);
+    background-color: burlywood;
+    font-size: large;
+}
+
+.overlay {
+    opacity: 0,5;
+}
+
+h4 {
+    color: burlywood;
+}
+
+.main p {
+    color: rgb(254, 12, 8);
+    color: darksalmon;
+}
+
+address {
+    color: rgb(131, 243, 131);
+}
+
+body {
+    background-color: rgb(238, 243, 205);
+}
+
+h3 {
+    color: blue;
+}
