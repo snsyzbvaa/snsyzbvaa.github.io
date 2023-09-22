@@ -19,7 +19,7 @@ body {
   /* Header */
   h1 {
     margin: 0;
-    background-color: steelblue;
+    background-color: rgb(158, 179, 196);
     line-height: 100px;
     color: khaki;
   }
@@ -35,7 +35,7 @@ body {
   
   /* To Do Section */
   .week {
-
+  color: rgb(9, 9, 9);
   }
   
   .row {
@@ -50,7 +50,7 @@ body {
   }
   
   .day.square {
-    background-color: steelblue;
+    background-color: rgb(168, 201, 228);
     border: 1px solid white;
   }
   
@@ -111,4 +111,8 @@ body {
 
 .reminders {
   flex-grow: 2;
+}
+
+h4 {
+    
 }
