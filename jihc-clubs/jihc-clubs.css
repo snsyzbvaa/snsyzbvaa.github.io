@@ -1,0 +1,40 @@
+h1 {
+    margin: 0;
+    background-color: rgb(8, 38, 63);
+    line-height: 100px;
+    color: rgba(255, 255, 255, 0.966);
+    font-family: Verdana;
+    font-size: 35px;
+  }
+
+  nav {
+    text-decoration: underline;
+    text-align: right;
+    margin-left: 1000px;
+    position: absolute;
+    top: 32px;
+    justify-content: space-around;
+    word-spacing: 15px;
+}
+
+.home {
+    width: 720px;
+    height: 700px;
+    margin-left: 0px;
+}
+
+.container {
+    position: relative;
+}
+ 
+.container .text {
+    position: absolute;
+    top: 300px;
+    width: 550px;
+    height: 55px;
+    color: rgb(251, 251, 251);
+    font-size: 30px;
+    text-align: center;
+    padding-left: 140px;
+    background-color: rgb(8, 10, 72);
+}
